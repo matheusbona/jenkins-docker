@@ -1,6 +1,13 @@
 # jenkins-docker
 Alpine + Jenkins Latest + MVN 3.5.0
 
+Faça o clone do projeto:
+git clone https://github.com/matheusbona/jenkins-docker.git
+cd jenkins-docker
+
+Para buildar:
+docker build -f Dockerfile .
+
 Para executar:
 
 Crie um diretório:
