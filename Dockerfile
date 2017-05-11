@@ -1,5 +1,7 @@
 FROM jenkins:2.46.2-alpine
 
+MAINTAINER mateus.bona@gmail.com
+
 USER root
 
 RUN apk update
