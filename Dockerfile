@@ -1,4 +1,4 @@
-FROM jenkins:lts-alpine
+FROM jenkins:alpine
 
 MAINTAINER mateus.bona@gmail.com
 
